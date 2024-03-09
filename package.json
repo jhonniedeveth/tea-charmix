@@ -1,6 +1,6 @@
 {
   "name": "tea-charmix",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "tea-demo-arsen": "1.0.1",
-    "tea-brewer": "0.1.1"
+    "tea-brewer": "0.1.1",
+    "i4-demo-tea": "1.0.0"
   },
   "bugs": {
     "url": "https://github.com/jhonniedeveth/tea-charmix/issues"
